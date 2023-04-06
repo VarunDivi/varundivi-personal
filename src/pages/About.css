@@ -1,0 +1,15 @@
+.about-container{
+    background: url('../images/about-bg.jpg');
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+
+}
+
+
+
+.Introduction{
+    font-size: 100px;
+}
